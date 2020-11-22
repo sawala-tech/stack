@@ -1,2 +1,2 @@
-# stack
-Preferensi teknologi stack dan berbagai rekomendasi terkait
+# Technology Stack Preferences
+Preferensi kumpulan teknologi dan berbagai rekomendasi terkait yang ingin digunakan di SAWALA
